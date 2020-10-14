@@ -7,7 +7,7 @@
 
 <property>
 <name>fs.default.name</name>
-<value>hdfs://[Public IP of Master]:9001</value>
+<value>hdfs://13.233.140.141:9001</value>
 </property>
 
 </configuration>
